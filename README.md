@@ -1,3 +1,4 @@
+<img width="1402" height="1122" alt="ai unicity" src="https://github.com/user-attachments/assets/97dcd56a-1cbb-4d00-a452-1a244807b0d9" />
 # Astrid
 
 **An operating system for AI agents.**
